@@ -1,2 +1,1 @@
-# SWAT
-Sliding Window Adversarial Training for Gradual Domain Adaptation
+### Code will be released when paper is accepted!
